@@ -76,16 +76,14 @@
     }
   ],
   "skills": {
-    "programming": ["Python", "JavaScript", "Java", "C++", "TypeScript", "Go"],
-    "web": ["React", "Node.js", "Express", "HTML/CSS", "Vue.js", "Angular"],
-    "databases": ["MongoDB", "PostgreSQL", "SQLite", "Redis"],
-    "tools": ["Git", "Docker", "AWS", "Linux", "VS Code", "Jupyter"],
-    "frameworks": ["Django", "Flask", "Spring Boot", "React Native", "TensorFlow"]
+    "Mechanical CAD": ["Siemens NX", "Fusion 360"],
+    "PCB design:": ["Altium Designer", "Fusion 360", "Autodesk Eagle"],
+    "programming": ["Python", "C++", "MATLAB"]
   },
   "contact": {
-    "email": "your.email@example.com",
-    "linkedin": "https://linkedin.com/in/yourprofile",
-    "github": "https://github.com/yourusername",
-    "phone": "+1 (555) 123-4567"
+    "email": "mrmacgre@usc.edu",
+    "linkedin": "https://linkedin.com/in/matthew-r-macgregor",
+    "github": "https://github.com/mrmacgre",
+    "phone": "(360) 325-1779"
   }
 }
