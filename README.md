@@ -48,10 +48,6 @@ git push origin main
 
 Changes will be live within a few minutes.
 
-## Customization
-
-To change contact information, edit the contact section in `index.html` (lines 152-168).
-
 ---
 
 Built with GitHub Pages.
